@@ -1,6 +1,6 @@
 # Health Insurance Cost Analysis using Python
 # Project Overview
-> This project analyzes health insurance charges using Python, focusing on key factors such as age, BMI, smoking status, region, and more. The dataset is obtained from Kaggle and processed to extract meaningful insights through exploratory data analysis (EDA) and data visualization.
+> This project analyses health insurance charges using Python, focusing on key factors such as age, BMI, smoking status, region, and more. The dataset is obtained from Kaggle and processed to extract meaningful insights through exploratory data analysis (EDA) and data visualisation.
 
 # Tasks Performed
 Data Acquisition
@@ -14,15 +14,15 @@ Data Cleaning & Preparation
 > - Applied one-hot encoding to categorical data for machine learning compatibility.
 
 Exploratory Data Analysis (EDA)
-> - Descriptive Statistics: Summarized key statistics of numerical columns.
+> - Descriptive Statistics: Summarised key statistics of numerical columns.
 > - Correlation Heatmap: Identified relationships between numerical variables, highlighting factors affecting insurance charges.
 > - Distribution Analysis: Explored the spread of insurance charges using histograms.
-> - Scatter Plots: Visualized relationships between charges and features like age and BMI.
+> - Scatter Plots: Visualised relationships between charges and features like age and BMI.
 > - Box Plots: Compared charges across different categories, such as smokers vs. non-smokers and regions.
 
 Feature Engineering
-> - Created BMI categories (Underweight, Normal, Overweight, Obese) to analyze its impact on charges.
+> - Created BMI categories (Underweight, Normal, Overweight, Obese) to analyse their impact on charges.
 > - Grouped individuals into age categories (Young, Adult, Middle-aged, Senior) for better trend analysis.
 
 Data Export
-> - Saved the processed dataset with encoded categorical variables for further modeling or predictive analysis.
+> - Saved the processed dataset with encoded categorical variables for further modelling or predictive analysis.
